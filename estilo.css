@@ -1,0 +1,35 @@
+body ,html{
+    margin:auto;
+    width: 1000px;
+        height: 500px;
+        background: url(fundo.jpg);
+        text-align:center;
+        background-position: 200%;
+        list-style-type: none;
+        background-size: cover;
+        video {
+            width: 100%;
+            height: auto;
+          }
+}
+        
+        
+
+#destaque {
+        text-align:center;
+            height: 70px;
+            video {
+                width: 100%;
+                height: auto;
+                {<video width="400" controls>
+  <source src="<iframe width="560" height="315" src="https://www.youtube.com/embed/kveunrBU5UM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>" 
+  </video>
+                }
+              }
+}
+<div footer>
+            footer{
+                text-align: center;
+        padding: 400px;
+}
+
